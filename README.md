@@ -1,34 +1,23 @@
 # A Framework for Diabetes Detection Using Machine Learning and Data Preprocessing
 
-📖 **Project Description**  
-This repository contains the official implementation and source code for our academic research paper titled **"A Framework for Diabetes Detection Using Machine Learning and Data Preprocessing."** This work was conducted at the Department of Data Science and Artificial Intelligence, Faculty of Information Technology, Al-Ahliyya Amman University, by Asma Al-Khayat and Haneen Qutaishat, under the supervision of Dr. Ahmad Adel Abu-Shareha.
+This repository contains the official implementation and source code for our research paper focused on early diabetes detection using machine learning algorithms and robust data preprocessing pipelines.
 
-👥 **Authors**  
-- Dr. Ahmad Adel Abu-Shareha  
-- Haneen Qutaishat  
-- Asma Al-Khayat  
+## 👥 Authors
+* **Haneen Qutaishat**
+* **Ahmad Adel Abu-Shareha**
 
-⚙️ **Methodology & Key Steps**  
-🔹 **Data Preprocessing & Imputation**  
-- Implementing advanced data imputation and cleaning strategies to handle missing values.  
-- Preparing clinical and demographic datasets for optimal model ingestion.  
+## 🚀 Project Overview
+This project proposes an end-to-end machine learning framework leveraging the **Pima Indians Diabetes Dataset** from Kaggle. The study highlights the critical impact of rigorous data preprocessing—including handling missing values, feature scaling, and data balancing—on the performance and accuracy of classification models for medical diagnosis.
 
-🔹 **Feature Selection & Oversampling**  
-- Applying systematic feature selection techniques to isolate the most influential predictors.  
-- Utilizing oversampling techniques to address class distribution imbalances and ensure unbiased training.  
+## 🛠️ Tech Stack & Libraries
+* **Language:** Python
+* **Environment:** Jupyter Notebook
+* **Libraries:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
 
-🔹 **Model Training & Optimization**  
-- Training multiple machine learning classifiers.  
-- Conducting rigorous hyperparameter tuning to maximize classification performance and diagnostic reliability.  
+## 📂 Repository Structure
+* `diabetes_detection_research.ipynb` : The complete end-to-end notebook containing Exploratory Data Analysis (EDA), data preprocessing, model training, and performance evaluation.
 
-🛠️ **Technologies Used**  
-- Python (core programming language)  
-- Jupyter Notebook (interactive development environment)  
-- Pandas & NumPy (data preprocessing and manipulation)  
-- Scikit-learn (machine learning algorithms and optimization)  
-- Matplotlib & Seaborn (data visualization)  
-
-🎯 **Goal of the Project**  
-- Build a robust and reproducible machine learning framework for early diabetes detection.  
-- Optimize model performance through advanced data engineering and hyperparameter tuning.  
-- Share the transparent, open-source implementation of our research paper.
+## 📊 Methodology & Results
+1. **Data Preprocessing:** Addressed missing data, outliers, and feature distributions to ensure high data quality.
+2. **Modeling:** Implemented and evaluated multiple machine learning classifiers to predict diabetes risk accurately.
+3. **Evaluation:** Assessed models using robust evaluation metrics (Accuracy, Precision, Recall, F1-Score).
