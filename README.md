@@ -28,7 +28,7 @@ This repository contains the official implementation and source code for our res
 - Scikit-learn (machine learning algorithms and optimization)  
 - Matplotlib & Seaborn (data visualization)
 
-- 🎯 **Goal of the Project**  
+🎯 **Goal of the Project**  
 - Build a robust and reproducible machine learning framework for early diabetes detection.  
 - Optimize model performance through advanced data engineering and hyperparameter tuning.  
 - Share the transparent, open-source implementation of our research paper.
