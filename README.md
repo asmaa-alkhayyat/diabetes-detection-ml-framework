@@ -2,7 +2,6 @@
 
 📖 **Project Description**
 This repository contains the official implementation and source code for our academic research paper titled **"A Framework for Diabetes Detection Using Machine Learning and Data Preprocessing."** 
-
 This work was conducted at the Department of Data Science and Artificial Intelligence, Faculty of Information Technology, Al-Ahliyya Amman University, by Asma Al-Khayat and Haneen Qutaishat, under the supervision of Dr. Ahmad Adel Abu-Shareha.
 
 👥 **Authors**
@@ -11,7 +10,6 @@ This work was conducted at the Department of Data Science and Artificial Intelli
 - Asma Al-Khayat
 
 ⚙️ **Methodology & Key Steps**
-
 🔹 **Data Preprocessing & Imputation**
 - Implementing advanced data imputation and cleaning strategies to handle missing values.
 - Preparing clinical and demographic datasets for optimal model ingestion.
