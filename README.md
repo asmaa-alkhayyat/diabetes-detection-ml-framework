@@ -23,9 +23,13 @@ The proposed framework includes:
 * **Hyperparameter Optimization:** Tuning models for improved performance.
 * **Evaluation:** Assessing classification and diagnostic performance.
 
-## 🛠️ Technologies Used
+🛠️ **Technologies Used**  
 
-**Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn · Jupyter Notebook**
+Python (core programming language)  
+Jupyter Notebook (interactive development environment)  
+Pandas & NumPy (data preprocessing and manipulation)  
+Scikit-learn (machine learning algorithms and optimization)  
+Matplotlib & Seaborn (data visualization)
 
 ## 🎯 Objectives
 
