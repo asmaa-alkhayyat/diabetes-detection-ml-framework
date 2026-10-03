@@ -24,11 +24,11 @@ The proposed framework includes:
 * **Evaluation:** Assessing classification and diagnostic performance.
 
 ## 🛠️ Technologies
-* Python (core programming language)  
-* Jupyter Notebook (interactive development environment)  
-* Pandas & NumPy (data preprocessing and manipulation)  
-* Scikit-learn (machine learning algorithms and optimization)  
-* Matplotlib & Seaborn (data visualization)
+* **Python** (core programming language)  
+* **Jupyter Notebook** (interactive development environment)  
+* **Pandas & NumPy** (data preprocessing and manipulation)  
+* **Scikit-learn** (machine learning algorithms and optimization)  
+* **Matplotlib & Seaborn** (data visualization)
 
 ## 🎯 Objectives
 
