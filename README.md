@@ -57,4 +57,4 @@ Evaluation
 
 ## 📄 Research Paper
 
-**A Framework for Diabetes Detection Using Machine Learning and Data Preprocessing**
+[A Framework for Diabetes Detection Using Machine Learning and Data Preprocessing](https://bright-journal.org/Journal/index.php/JADS/article/view/363)
